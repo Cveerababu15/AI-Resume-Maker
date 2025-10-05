@@ -1,4 +1,4 @@
-# CoverCraft – AI Cover Letter & Resume Generator
+# CareerScribe – AI Cover Letter & Resume Generator
 
 ![Project Screenshot](img-1.png)
 ![Project Screenshot](img-2.png)
